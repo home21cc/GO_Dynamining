@@ -1,0 +1,13 @@
+{
+  "StaticUrl"           : "/static/",
+  "StaticRoot"          : "Static/",
+  "TemplatesUrl"        : "/templates/",
+  "TemplatesRoot"       : "Templates/",
+  "BasePage"            : "base",
+  "BasicPage"           : "basic",
+  "StartPage"           : "start",
+  "AddUserPage"         : "addUser",
+  "EditUserPage"        : "editUser",
+  "InformationPage"     : "information",
+  "Error404Page"        : "Error404"
+}

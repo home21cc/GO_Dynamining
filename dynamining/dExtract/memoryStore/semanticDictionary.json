@@ -1,0 +1,20 @@
+{
+  "USE": {
+    "ContentValue" : {
+      "ExtractType": "",
+      "Frequency": 0,
+      "Probability": 0.0,
+      "Inspector": "",
+      "Information": ""
+    }
+  },
+  "UNUSE": {
+    "ContentValue" : {
+      "ExtractType": "",
+      "Frequency": 0,
+      "Probability": 0.0,
+      "Inspector": "",
+      "Information": ""
+    }
+  }
+}
